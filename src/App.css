@@ -1,8 +1,9 @@
 .tweets {
   
-  width: 80%
+  width: 80vmin;
 }
 
 .background {
   background-color: #1b9cef;
+ 
 }
