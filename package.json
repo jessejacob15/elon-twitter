@@ -2,7 +2,7 @@
   "name": "elon-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://jessejacob15.github.io/elon-twitter",
+  "homepage": "https://elonstweet.app",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
