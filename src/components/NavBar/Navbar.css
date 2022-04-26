@@ -1,0 +1,72 @@
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: black;
+    background-color: #f5f3f3;
+  }
+  
+  .myNav {
+    padding: 0px;
+    background-color: #1b9cef;
+  }
+  .empty {
+    color: #696969b2;
+  }
+  
+  .empty:hover {
+    color: #696969b2;
+  }
+  
+  .buyButton {
+    background-color: #216e30;
+    border-color: #216e30;
+    font-size: 25px;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+  
+  .buyButton:hover {
+    background-color: #1dde43;
+    border-color: #1dde43;
+  }
+  
+  h1 {
+    font-family: 'Bebas Neue';
+    color: white;
+    font-size: 25px;
+  }
+  
+  h1:hover {
+    color: #ff00ff;
+  }
+  
+  a {
+    font-family: 'Georgia, serif';
+    font-size: 25px;
+    color: #f5f3f3;
+  }
+  
+  @media screen and (max-width: 500px) {
+    .list {
+      flex-direction: column;
+      height: auto;
+    }
+    .items:nth-child(1) {
+      border-top: 1px solid rgba(255, 255, 255, 0.555);
+      margin-top: 50px;
+    }
+    .items {
+      width: 100%;
+      border-top: 1px solid rgba(255, 255, 255, 0.555);
+      text-align: center;
+      margin-right: 0px;
+      padding: 20px 0;
+    }
+    .btn {
+      display: block;
+    }
+  }
+
