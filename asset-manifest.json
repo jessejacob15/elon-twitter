@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.487da439.css",
-    "main.js": "/static/js/main.e89c749a.js",
-    "static/js/787.fea6e73e.chunk.js": "/static/js/787.fea6e73e.chunk.js",
-    "index.html": "/index.html",
-    "main.487da439.css.map": "/static/css/main.487da439.css.map",
-    "main.e89c749a.js.map": "/static/js/main.e89c749a.js.map",
-    "787.fea6e73e.chunk.js.map": "/static/js/787.fea6e73e.chunk.js.map"
+    "main.css": "/elon-twitter/static/css/main.487da439.css",
+    "main.js": "/elon-twitter/static/js/main.54a7ace7.js",
+    "static/js/787.fea6e73e.chunk.js": "/elon-twitter/static/js/787.fea6e73e.chunk.js",
+    "index.html": "/elon-twitter/index.html",
+    "main.487da439.css.map": "/elon-twitter/static/css/main.487da439.css.map",
+    "main.54a7ace7.js.map": "/elon-twitter/static/js/main.54a7ace7.js.map",
+    "787.fea6e73e.chunk.js.map": "/elon-twitter/static/js/787.fea6e73e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.487da439.css",
-    "static/js/main.e89c749a.js"
+    "static/js/main.54a7ace7.js"
   ]
 }
