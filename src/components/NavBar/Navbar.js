@@ -23,7 +23,9 @@ const Navigation = () => {
                 <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link href="#" target="_blank" className="buyBox">
-                <div className="buyButton">Buy</div>
+                <div className="buyButton">
+                  <h1>Buy</h1>
+                </div>
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
