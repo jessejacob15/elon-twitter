@@ -6,8 +6,10 @@ function App() {
   return (
     <>
       <Navigation />
-      <div className="App">
-        <TwitterTimelineEmbed sourceType="profile" screenName="elonmusk" />
+      <div className="d-flex justify-content-center">
+        <div className="tweets">
+          <TwitterTimelineEmbed sourceType="profile" screenName="elonmusk" />
+        </div>
       </div>
     </>
   );
