@@ -19,7 +19,7 @@ const Navigation = () => {
               >
                 <h1>Chart</h1>
               </Nav.Link>
-              <Nav.Link href="https://elonstweet.app/WHITEPAPER.V1.pdf">
+              <Nav.Link href="https://elonstweet.app/whitepaper.pdf">
                 <h1>Whitepaper</h1>
               </Nav.Link>
               <Nav.Link href="#" target="_blank" className="buyBox">
