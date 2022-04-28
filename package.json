@@ -2,7 +2,7 @@
   "name": "elon-app",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://elonstweet.app",
+  "homepage": "https://etweet.app",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
