@@ -19,7 +19,7 @@ const Navigation = () => {
               <Nav.Link href="https://etweet.app/whitepaper.pdf">
                 <h1>Whitepaper</h1>
               </Nav.Link>
-              <Nav.Link href="https://poocoin.app/tokens/0x7b6dacedbcf26e6b7a1e20ff2c6d57a36d462ade" target="_blank" className="buyBox">
+              <Nav.Link href="https://pancakeswap.finance/swap?outputCurrency=0x7b6dACedBCF26e6b7a1e20FF2C6D57A36d462aDe" target="_blank" className="buyBox">
                 <div className="buyButton">
                   <h1>Buy</h1>
                 </div>

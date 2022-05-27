@@ -13,7 +13,7 @@ function App() {
           </div>
       <div className="d-flex justify-content-center">
         <div className="tweets">
-          <TwitterTimelineEmbed sourceType="profile" screenName="elonmusk" />
+          <TwitterTimelineEmbed sourceType="profile" screenName="etweetbsc" />
         </div>
       </div>
     </div>
