@@ -4,5 +4,5 @@ a simple react splash page that displays all of Elon Musk's tweet as well as use
 the page is hosted via github pages and can be found @ etweet.app
 
 ## useful scripts:
-`npm run start` to start the project on localhost 
+`npm run start` to start the project on localhost <br /> 
 `npm run deploy` to deploy to github pages
